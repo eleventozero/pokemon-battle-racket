@@ -3,6 +3,13 @@
 A functional Pokémon battle system implemented in **Racket (`#lang racket/base`)**.  
 The project follows a **pure functional design**, using immutable data structures and explicit state transitions.
 
+It is the counterpart to the object oriented Java version:
+https://github.com/eleventozero/pokemon-battle-java
+
+The goal was to implement the same idea twice:
+- once in a functional style (Racket)
+- once in an object-oriented style (Java)
+
 ---
 
 ## ✨ Features
