@@ -1,24 +1,31 @@
 # 🐉 Pokemon Battle (Racket)
+---
+# MVP
+✅ An object-oriented Pokémon battle system implemented in **Racket (`#lang racket/base`)** <br>
+✅ The project follows a **pure functional design**
 
-A functional Pokémon battle system implemented in **Racket (`#lang racket/base`)**.  
-The project follows a **pure functional design**, using immutable data structures and explicit state transitions.
-
-It is the counterpart to the object oriented Java version:
-https://github.com/eleventozero/pokemon-battle-java
+---
 
 The goal was to implement the same idea twice:
-- once in a functional style (Racket)
-- once in an object-oriented style (Java)
+- once in a **functional** style - (Racket)
+- once in an **object-oriented** style - (Java) https://github.com/eleventozero/pokemon-battle-java
+
+---
+
+## ❗AI Assistance
+
+AI tools were used to support project planning, code reviews, refactoring, and documentation. <br>
+The final implementation, design decisions, and project structure were reviewed and validated by myself.
 
 ---
 
 ## ✨ Features
 
-- ⚔️ Turn-based battle system (Player vs Enemy)
-- 🔁 Pure functional state management (no mutation)
-- 🧠 Type effectiveness system (Gen 1 inspired)
-- 💾 SQLite database integration
-- 🧩 Modular architecture (API, DB, Logic, UI)
+- Turn-based battle system (Player vs Enemy)
+- Pure functional state management (no mutation)
+- Type effectiveness system (Gen 1 inspired)
+- SQLite database integration
+- Modular architecture (API, DB, Logic, UI)
 
 ---
 
@@ -89,3 +96,5 @@ This project is designed as a learning system to explore:
 - Clean architecture and separation of concerns
 - Game logic implementation
 - Database integration with SQLite
+- ---
+Any feedback, suggestions, or criticism are highly appreciated.
