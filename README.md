@@ -2,11 +2,8 @@
 ---
 # MVP
 ✅ An object-oriented Pokémon battle system implemented in **Racket (`#lang racket/base`)** <br>
-✅ The project follows a **pure functional design**
-
----
-
-The goal was to implement the same idea twice:
+✅ The project follows a **pure functional design** <br> 
+✅ implement the same idea twice:
 - once in a **functional** style - (Racket)
 - once in an **object-oriented** style - (Java) https://github.com/eleventozero/pokemon-battle-java
 
