@@ -16,7 +16,7 @@ The final implementation, design decisions, and project structure were reviewed 
 
 ---
 
-## ✨ Features
+## Features
 
 - Turn-based battle system (Player vs Enemy)
 - Pure functional state management (no mutation)
@@ -26,7 +26,7 @@ The final implementation, design decisions, and project structure were reviewed 
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Main Menu
 <img width="1521" height="317" alt="menu" src="https://github.com/user-attachments/assets/ef5ad502-6912-45ed-828b-4967a207def1" />
@@ -39,7 +39,7 @@ The final implementation, design decisions, and project structure were reviewed 
 
 ---
 
-## 📦 Data Model
+## Data Model
 
 ### Pokemon
 
@@ -77,7 +77,7 @@ The final implementation, design decisions, and project structure were reviewed 
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Status effects (poison, burn, etc.)
 - Improved enemy AI (strategy instead of random)
@@ -93,5 +93,5 @@ This project is designed as a learning system to explore:
 - Clean architecture and separation of concerns
 - Game logic implementation
 - Database integration with SQLite
-- ---
+---
 Any feedback, suggestions, or criticism are highly appreciated.
