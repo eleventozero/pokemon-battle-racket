@@ -1,5 +1,5 @@
 # 🐉 Pokemon Battle (Racket)
----
+
 # MVP
 ✅ An object-oriented Pokémon battle system implemented in **Racket (`#lang racket/base`)** <br>
 ✅ The project follows a **pure functional design** <br> 
@@ -7,14 +7,10 @@
 - once in a **functional** style - (Racket)
 - once in an **object-oriented** style - (Java) https://github.com/eleventozero/pokemon-battle-java
 
----
-
 ## ❗AI Assistance
 
 AI tools were used to support project planning, code reviews, refactoring, and documentation. <br>
 The final implementation, design decisions, and project structure were reviewed and validated by myself.
-
----
 
 ## Features
 
@@ -23,8 +19,6 @@ The final implementation, design decisions, and project structure were reviewed 
 - Type effectiveness system (Gen 1 inspired)
 - SQLite database integration
 - Modular architecture (API, DB, Logic, UI)
-
----
 
 ## Screenshots
 
@@ -36,8 +30,6 @@ The final implementation, design decisions, and project structure were reviewed 
 
 ### Pokemon Selection
 <img width="1521" height="643" alt="pokemon_selection" src="https://github.com/user-attachments/assets/9b786461-8b49-4567-8feb-43463a5191f0" />
-
----
 
 ## Data Model
 
@@ -53,8 +45,6 @@ The final implementation, design decisions, and project structure were reviewed 
 | type         | Symbol | e.g.'fire  |
 | attacks      | Vector | 3 attacks  |
 
----
-
 ### Attack
 
 | Field  | Type   | Description |
@@ -62,8 +52,6 @@ The final implementation, design decisions, and project structure were reviewed 
 | name   | String | Attack name |
 | damage | Int    | Base damage |
 | type   | Symbol | e.g. 'water |
-
----
 
 ### State
 
@@ -75,15 +63,12 @@ The final implementation, design decisions, and project structure were reviewed 
 | e-active     | Enemy active index  |
 | turn         | #t = player         |
 
----
 
 ## Future Improvements
 
 - Status effects (poison, burn, etc.)
 - Improved enemy AI (strategy instead of random)
 - Extended type system (full Gen 1 mechanics)
-
----
 
 ## ⭐ Notes
 
